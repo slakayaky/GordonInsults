@@ -1,0 +1,24 @@
+var insult=[
+	`gordonKEK My gran could do better! And she’s dead!`,
+	`gordonKEK For what we are about to eat, may the Lord make us truly not vomit.`,
+	`gordonKEK This pizza is so disgusting, if you take it to Italy you’ll get arrested.`,
+	`gordonKEK This is a really tough decision…’cause you’re both crap.`,
+	`gordonKEK Why did the chicken cross the road? Because you didn’t FUCKING cook it!`,
+	`gordonKEK I wouldn’t trust you running a bath let alone a restaurant.`,
+	`gordonKEK You added so much salt and pepper I can hear the dish singing ‘Push It.’`,
+	`gordonKEK Hey, panini head, are you even listening to me?`,
+	`gordonKEK I’ll get you more pumpkin, I’ll ram it right up your ass.`,
+	`gordonKEK I’ve never, ever, ever met someone I believe in as little as you.`,
+	`gordonKEK You guys cook like old people fuck.`,
+	`gordonKEK This has so much oil America wants to invade the fucking plate.`,
+	`gordonKEK You wanna see my asshole? You can watch me walk out of the door of this fucking dump.`,
+	`gordonKEK Fuck off you piece of fucking yankie dankie doodle shite, fuck off will you please yeah?`,
+	`gordonKEK You fucking donkey.`,
+	`gordonKEK Breaded cod tastes like a breaded condom.`,
+	`gordonKEK For what we are about to eat, may the Lord make us truly not vomit.`,
+	`gordonKEK Don’t whistle at me I’m not your fucking dog, you look like more of a dog than I do.`,
+	`gordonKEK It’s not as if you’re the captain of the Titanic… you’re the fucking iceberg!`,
+	`gordonKEK You donut! trashDONUT`
+];
+
+insult[Math.floor(Math.random()*insult.length)];
