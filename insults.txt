@@ -23,7 +23,8 @@ var insult=[
 	`gordenKEK The problem with Yanks is they are wimps.`,
 	`gordenKEK Get your shit together!`,
 	`gordenKEK There is a level of snobbery and fickleness in L.A.`,
-	`gordenKEK My industry, I’m sorry to say, is full of muppets.`
+	`gordenKEK My industry, I’m sorry to say, is full of muppets.`,
+	`gordonKEK I’ve never, ever, ever, ever, ever met someone I believe in as little as you.`
 ];
 
 insult[Math.floor(Math.random()*insult.length)];
