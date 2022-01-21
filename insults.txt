@@ -19,11 +19,11 @@ var insult=[
 	`gordonKEK Don’t whistle at me I’m not your fucking dog, you look like more of a dog than I do.`,
 	`gordonKEK It’s not as if you’re the captain of the Titanic… you’re the fucking iceberg!`,
 	`gordonKEK You donut! trashDONUT`,
-	`gordenKEK You’re getting your knickers in a twist! Calm down!`,
-	`gordenKEK The problem with Yanks is they are wimps.`,
-	`gordenKEK Get your shit together!`,
-	`gordenKEK There is a level of snobbery and fickleness in L.A.`,
-	`gordenKEK My industry, I’m sorry to say, is full of muppets.`,
+	`gordonKEK You’re getting your knickers in a twist! Calm down!`,
+	`gordonKEK The problem with Yanks is they are wimps.`,
+	`gordonKEK Get your shit together!`,
+	`gordonKEK There is a level of snobbery and fickleness in L.A.`,
+	`gordonKEK My industry, I’m sorry to say, is full of muppets.`,
 	`gordonKEK I’ve never, ever, ever, ever, ever met someone I believe in as little as you.`
 ];
 
