@@ -24,7 +24,13 @@ var insult=[
 	`gordonKEK Get your shit together!`,
 	`gordonKEK There is a level of snobbery and fickleness in L.A.`,
 	`gordonKEK My industry, I’m sorry to say, is full of muppets.`,
-	`gordonKEK I’ve never, ever, ever, ever, ever met someone I believe in as little as you.`
+	`gordonKEK I’ve never, ever, ever, ever, ever met someone I believe in as little as you.`,
+	`gordonKEK You're so full of shit even your eyes are brown!`,
+	`gordonKEK This crab is so undercooked I can still hear it singing "Under the Sea."`,
+	`gordonKEK You put so much ginger in this it’s a Weasley!`,
+	`gordonKEK You used so much oil, the U.S. want to invade the fucking plate.`,
+	`gordonKEK Hey, come here. Let me whisper something very important in your ear… Fuck off and get out!`,
+	`gordonKEK Don’t just stand there like a big fucking muffin!`
 ];
 
 insult[Math.floor(Math.random()*insult.length)];
