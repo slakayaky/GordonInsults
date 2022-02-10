@@ -33,4 +33,4 @@ var insult=[
 	`gordonKEK Don’t just stand there like a big fucking muffin!`
 ];
 
-"$(touser)" + insult[Math.floor(Math.random()*insult.length)];
+insult[Math.floor(Math.random()*insult.length)];
