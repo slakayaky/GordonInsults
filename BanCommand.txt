@@ -1,3 +1,6 @@
+var a = "$(user)";
+var b = "$(query)";
+
 if (a === "DeltaSierra24") {
   "DeltaSierra24 is now permanently banned";
 } else {
