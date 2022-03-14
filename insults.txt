@@ -30,7 +30,11 @@ var insult=[
 	`gordonKEK You put so much ginger in this it’s a Weasley!`,
 	`gordonKEK You used so much oil, the U.S. want to invade the fucking plate.`,
 	`gordonKEK Hey, come here. Let me whisper something very important in your ear… Fuck off and get out!`,
-	`gordonKEK Don’t just stand there like a big fucking muffin!`
+	`gordonKEK Don’t just stand there like a big fucking muffin!`,
+	`gordonKEK Eat it you fuck wit.`,
+	`gordonKEK Hey you! Come here you… fuck face.`,
+	`gordonKEK Just look at the state of you.`,
+	`gordonKEK I’ve got nowhere else to with you, and I’ve barely met you.`
 ];
 
 insult[Math.floor(Math.random()*insult.length)];
