@@ -1,5 +1,15 @@
 var ravioli=[
-  
+  `Ravioli are Ravioli`,
+  `Calzones are Ravioli`,
+  `PopTarts are Ravioli`,
+  `Pierogis are Ravioli`,
+  `Fried eggs are Ravioli`,
+  `A turkey (with stuffing) is Ravioli`,
+  `Tide Pods are Ravioli (pls don't eat them)`,
+  `Uncrustables are Ravioli`,
+  `Any human until their ghost escapes is Ravioli`,
+  `A nice hat, filled with jam, that you sew shut, is Ravioli`,
+  `Dumplings are Ravioli`
 ];
 
 ravioli[Math.floor(Math.random()*ravioli.length)];
