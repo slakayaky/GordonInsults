@@ -9,7 +9,9 @@ var ravioli=[
   `Uncrustables are Ravioli`,
   `Any human until their ghost escapes is Ravioli`,
   `A nice hat, filled with jam, that you sew shut, is Ravioli`,
-  `Dumplings are Ravioli`
+  `Dumplings are Ravioli`,
+  `Sausage in casing is Ravioli`,
+  `betweenthebeardandme is Ravioli`
 ];
 
 ravioli[Math.floor(Math.random()*ravioli.length)];
