@@ -1,7 +1,8 @@
 var insult=[
 	`GAMBAADDICT my team will be decent this time`,
-  `GAMBAADDICT maybe i can rank up this time`,
-  `GAMBAADDICT one more game and i'll PR`,
+ 	`GAMBAADDICT maybe i can rank up this time`,
+ 	`GAMBAADDICT one more game and i'll PR`,
+	`GAMBAADDICT one more booster pack`,
 ];
 
 insult[Math.floor(Math.random()*insult.length)];
